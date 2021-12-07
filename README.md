@@ -1,6 +1,6 @@
 # [Semi-supervised Domain Adaptation via Sample-to-Sample Self-Distillation (WACV 2022)](https://arxiv.org/pdf/2111.14353.pdf)
 
-![](docs/teaser.pdf)
+![](docs/teaser.png)
 
 ### Acknowledgements
 The code is based on the official pytorch implementation of [Semi-supervised Domain Adaptation via Minimax Entropy (ICCV 2019)](https://arxiv.org/pdf/1904.06487.pdf) (GitHub link: [SSDA_MME](https://github.com/VisionLearningGroup/SSDA_MME)).
